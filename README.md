@@ -1,6 +1,6 @@
 # 📝 Todos App
 
-A sleek and minimalistic Todo list app built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. Organize your daily tasks with ease in a clean and responsive interface.
+A sleek and minimalistic Todo list app built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.Todos are saved in local storage. Organize your daily tasks with ease in a clean and responsive interface.
 
 ![Screenshot](/public/cover-image.png)
 
@@ -12,7 +12,6 @@ A sleek and minimalistic Todo list app built with **React**, **TypeScript**, **V
 - 💨 Fast development with Vite
 - 🎨 Styled using Tailwind CSS
 - ⚙️ Linting with ESLint + TypeScript support
-- 🌗 Optional dark mode (if included — feel free to remove this point)
 - 🧩 Icons from lucide-react
 
 ## 📦 Tech Stack
